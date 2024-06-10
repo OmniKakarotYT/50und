@@ -1,0 +1,12 @@
+body{
+    background:lightgoldenrodyellow;
+    font-family:cursive
+}
+button{
+    font-family:monospace;
+    font-stretch:extra-expanded;
+}
+#Title{
+    background-color: grey;
+    color:white;
+}
